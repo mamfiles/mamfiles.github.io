@@ -1,6 +1,6 @@
 {
 	"app": {
-		"status": "1",
+		"status": "0",
 		"toolbar": "true",
 		"navigation_drawer": "true",
 		"geolocation": "false",
