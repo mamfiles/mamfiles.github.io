@@ -1,9 +1,9 @@
 {
   "GB": {
-    "update_gbhelp_code": "2",
+    "update_gbhelp_code": "4",
     "reminder_time": "3",
-    "insta_themes": "1",
-    "update_link": "https://www.mediafire.com/file/nafmz9lpjybiuje/GBHelp_v2.2.apk/file",
+    "insta_themes": "0",
+    "update_link": "https://www.mediafire.com/",
     "app_gbinsta": "https://www.mediafire.com/file/2z2onj7zkmpxmxp/GBInsta_v1.70_by_atnfas_hoak.apk/file,v1.70,GBInstagram,com.gbinsta.android",
     "app_insta": "https://www.mediafire.com/file/q1a4o1etw264l17/GBInstaPlus_v1.70_by_atnfas_hoak.apk/file,v1.70,GBInstagram Plus,com.instagram.android",
     "app_gbwa": "https://www.gbgroupapps.com/GBWA.html,v19,GBWhatsApp,com.gbwhatsapp",
