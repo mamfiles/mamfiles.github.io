@@ -84,7 +84,7 @@
             function handleLongPress(event) {
                 const popupId = event.target.closest('.view-btn').getAttribute("data-popup");
                 if (popupId) {
-                    const linkToCopy = `/${popupId}`;
+                    const linkToCopy = `${window.location.origin}/?view=${popupId}`;
                     copyToClipboard(linkToCopy);
                 }
             }
